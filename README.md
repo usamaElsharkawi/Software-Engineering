@@ -1,5 +1,7 @@
 # Software Engineering Course
 
+> **Course:** [Software Development Lifecycle Specialization](https://www.coursera.org/specializations/software-development-lifecycle) - Coursera
+
 ## Course Overview Summary
 
 _(Summary will be added after each section is completed)_
